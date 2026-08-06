@@ -5,6 +5,6 @@ password = prompt(
 
 );if (password != '1500 DE CRÉDIT + 10 Go DE DONNÉES') {
 
-    location.href = 'https://www.mberytc.site/td-offre-de-independance';
+    location.href = 'https://www.mberytc.site/td-offre-de-independance.html';
 
 }
